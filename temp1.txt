@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 a.
 .
-=======
-a
->>>>>>> parent of cadd7c3... s
